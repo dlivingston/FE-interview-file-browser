@@ -60,3 +60,8 @@ These are not required but if you found this exercise to be easy or doesn't show
 * Can you make the directory listing sortable by the user? Allow the user to sort files by type? How does this affect pagination?
 * The data model could be extended in interesting ways.
 * Maybe something should happen when you click a file?
+
+
+## Challenge Submission Notes
+
+I believe I have fulfilled all the required functionality. Some additional functionality I would have liked to attempt would be to add the (loading, error, and empty) state messageing, and add some kind of sorting/ordering functions for each of the table columns, however I have done what I can with the time I have available. 
